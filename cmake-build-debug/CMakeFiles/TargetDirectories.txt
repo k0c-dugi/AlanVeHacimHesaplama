@@ -1,0 +1,3 @@
+C:/Users/Doğukan/CLionProjects/Alan_Hacim_Hesaplama/cmake-build-debug/CMakeFiles/Alan_Hacim_Hesaplama.dir
+C:/Users/Doğukan/CLionProjects/Alan_Hacim_Hesaplama/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Doğukan/CLionProjects/Alan_Hacim_Hesaplama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
